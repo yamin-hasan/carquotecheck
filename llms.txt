@@ -1,0 +1,66 @@
+# CarQuoteCheck
+
+> Free, 100% client-side US Car Dealership Out-the-Door (OTD) Price & Junk-Fee Auditor covering all 50 US states and Washington, DC.
+
+## Overview
+CarQuoteCheck helps US car buyers audit dealership buyer's orders privately in their browser without logins or server uploads. It verifies state statutory documentation fee caps, applies state-specific sales tax and trade-in tax credit rules, flags 55+ common dealership junk fees (such as VIN etching, paint protection, nitrogen tires, dealer prep, and market adjustments), calculates hidden loan interest on financed junk fees, and generates Polite, Firm, and Walk-Away counter-offer emails.
+
+## Core Pages
+- [CarQuoteCheck Home & OTD Auditor](https://carquotecheck.pages.dev/)
+- [About & Audit Methodology](https://carquotecheck.pages.dev/about/)
+- [Privacy Policy](https://carquotecheck.pages.dev/privacy-policy/)
+- [Terms of Service](https://carquotecheck.pages.dev/terms-of-service/)
+- [Contact & Report Outdated State Cap](https://carquotecheck.pages.dev/contact/)
+
+## All 50 US States + DC Doc Fee & OTD Calculators
+- [Alabama (AL) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/alabama-car-dealer-doc-fee-calculator/): Uncapped (avg $495), Avg Tax 4.25%, Trade-In Credit: Yes
+- [Alaska (AK) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/alaska-car-dealer-doc-fee-calculator/): Uncapped (avg $295), Avg Tax 0.00%, Trade-In Credit: No
+- [Arizona (AZ) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/arizona-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 8.40%, Trade-In Credit: Yes
+- [Arkansas (AR) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/arkansas-car-dealer-doc-fee-calculator/): $129 statutory cap, Avg Tax 9.45%, Trade-In Credit: Yes
+- [California (CA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/california-car-dealer-doc-fee-calculator/): $85 statutory cap, Avg Tax 8.85%, Trade-In Credit: No
+- [Colorado (CO) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/colorado-car-dealer-doc-fee-calculator/): Uncapped (avg $699), Avg Tax 7.80%, Trade-In Credit: Yes
+- [Connecticut (CT) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/connecticut-car-dealer-doc-fee-calculator/): Uncapped (avg $699), Avg Tax 6.35%, Trade-In Credit: Yes
+- [Delaware (DE) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/delaware-car-dealer-doc-fee-calculator/): Uncapped (avg $495), Avg Tax 4.25%, Trade-In Credit: Yes
+- [District of Columbia (DC) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/district-of-columbia-car-dealer-doc-fee-calculator/): Uncapped (avg $599), Avg Tax 6.50%, Trade-In Credit: No
+- [Florida (FL) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/florida-car-dealer-doc-fee-calculator/): Uncapped (avg $995), Avg Tax 7.00%, Trade-In Credit: Yes
+- [Georgia (GA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/georgia-car-dealer-doc-fee-calculator/): Uncapped (avg $799), Avg Tax 7.00%, Trade-In Credit: Yes
+- [Hawaii (HI) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/hawaii-car-dealer-doc-fee-calculator/): Uncapped (avg $395), Avg Tax 4.50%, Trade-In Credit: No
+- [Idaho (ID) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/idaho-car-dealer-doc-fee-calculator/): Uncapped (avg $399), Avg Tax 6.00%, Trade-In Credit: Yes
+- [Illinois (IL) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/illinois-car-dealer-doc-fee-calculator/): $358 statutory cap, Avg Tax 8.75%, Trade-In Credit: Yes
+- [Indiana (IN) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/indiana-car-dealer-doc-fee-calculator/): Uncapped (avg $225), Avg Tax 7.00%, Trade-In Credit: Yes
+- [Iowa (IA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/iowa-car-dealer-doc-fee-calculator/): $180 statutory cap, Avg Tax 5.00%, Trade-In Credit: Yes
+- [Kansas (KS) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/kansas-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 8.70%, Trade-In Credit: Yes
+- [Kentucky (KY) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/kentucky-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 6.00%, Trade-In Credit: Yes
+- [Louisiana (LA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/louisiana-car-dealer-doc-fee-calculator/): $425 statutory cap, Avg Tax 9.55%, Trade-In Credit: Yes
+- [Maine (ME) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/maine-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 5.50%, Trade-In Credit: Yes
+- [Maryland (MD) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/maryland-car-dealer-doc-fee-calculator/): $800 statutory cap, Avg Tax 6.00%, Trade-In Credit: No
+- [Massachusetts (MA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/massachusetts-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 6.25%, Trade-In Credit: Yes
+- [Michigan (MI) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/michigan-car-dealer-doc-fee-calculator/): $260 statutory cap, Avg Tax 6.00%, Trade-In Credit: Yes
+- [Minnesota (MN) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/minnesota-car-dealer-doc-fee-calculator/): $275 statutory cap, Avg Tax 6.88%, Trade-In Credit: Yes
+- [Mississippi (MS) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/mississippi-car-dealer-doc-fee-calculator/): Uncapped (avg $425), Avg Tax 5.00%, Trade-In Credit: Yes
+- [Missouri (MO) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/missouri-car-dealer-doc-fee-calculator/): $500 statutory cap, Avg Tax 8.30%, Trade-In Credit: Yes
+- [Montana (MT) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/montana-car-dealer-doc-fee-calculator/): Uncapped (avg $299), Avg Tax 0.00%, Trade-In Credit: No
+- [Nebraska (NE) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/nebraska-car-dealer-doc-fee-calculator/): Uncapped (avg $299), Avg Tax 7.00%, Trade-In Credit: Yes
+- [Nevada (NV) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/nevada-car-dealer-doc-fee-calculator/): Uncapped (avg $599), Avg Tax 8.38%, Trade-In Credit: Yes
+- [New Hampshire (NH) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/new-hampshire-car-dealer-doc-fee-calculator/): Uncapped (avg $495), Avg Tax 0.00%, Trade-In Credit: No
+- [New Jersey (NJ) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/new-jersey-car-dealer-doc-fee-calculator/): Uncapped (avg $799), Avg Tax 6.62%, Trade-In Credit: Yes
+- [New Mexico (NM) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/new-mexico-car-dealer-doc-fee-calculator/): Uncapped (avg $399), Avg Tax 4.00%, Trade-In Credit: Yes
+- [New York (NY) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/new-york-car-dealer-doc-fee-calculator/): $175 statutory cap, Avg Tax 8.50%, Trade-In Credit: Yes
+- [North Carolina (NC) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/north-carolina-car-dealer-doc-fee-calculator/): Uncapped (avg $799), Avg Tax 3.00%, Trade-In Credit: Yes
+- [North Dakota (ND) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/north-dakota-car-dealer-doc-fee-calculator/): Uncapped (avg $295), Avg Tax 5.00%, Trade-In Credit: Yes
+- [Ohio (OH) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/ohio-car-dealer-doc-fee-calculator/): $387 statutory cap, Avg Tax 7.25%, Trade-In Credit: Yes
+- [Oklahoma (OK) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/oklahoma-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 4.50%, Trade-In Credit: No
+- [Oregon (OR) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/oregon-car-dealer-doc-fee-calculator/): $250 statutory cap, Avg Tax 0.50%, Trade-In Credit: No
+- [Pennsylvania (PA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/pennsylvania-car-dealer-doc-fee-calculator/): $464 statutory cap, Avg Tax 6.50%, Trade-In Credit: Yes
+- [Rhode Island (RI) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/rhode-island-car-dealer-doc-fee-calculator/): $400 statutory cap, Avg Tax 7.00%, Trade-In Credit: Yes
+- [South Carolina (SC) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/south-carolina-car-dealer-doc-fee-calculator/): Uncapped (avg $599), Avg Tax 5.00%, Trade-In Credit: Yes
+- [South Dakota (SD) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/south-dakota-car-dealer-doc-fee-calculator/): Uncapped (avg $295), Avg Tax 4.00%, Trade-In Credit: Yes
+- [Tennessee (TN) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/tennessee-car-dealer-doc-fee-calculator/): Uncapped (avg $699), Avg Tax 9.25%, Trade-In Credit: Yes
+- [Texas (TX) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/texas-car-dealer-doc-fee-calculator/): $225 statutory cap, Avg Tax 6.25%, Trade-In Credit: Yes
+- [Utah (UT) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/utah-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 7.25%, Trade-In Credit: Yes
+- [Vermont (VT) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/vermont-car-dealer-doc-fee-calculator/): Uncapped (avg $499), Avg Tax 6.00%, Trade-In Credit: Yes
+- [Virginia (VA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/virginia-car-dealer-doc-fee-calculator/): Uncapped (avg $899), Avg Tax 4.15%, Trade-In Credit: No
+- [Washington (WA) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/washington-car-dealer-doc-fee-calculator/): $200 statutory cap, Avg Tax 9.80%, Trade-In Credit: Yes
+- [West Virginia (WV) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/west-virginia-car-dealer-doc-fee-calculator/): $175 statutory cap, Avg Tax 6.00%, Trade-In Credit: Yes
+- [Wisconsin (WI) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/wisconsin-car-dealer-doc-fee-calculator/): Uncapped (avg $399), Avg Tax 5.50%, Trade-In Credit: Yes
+- [Wyoming (WY) Doc Fee & OTD Calculator](https://carquotecheck.pages.dev/wyoming-car-dealer-doc-fee-calculator/): Uncapped (avg $299), Avg Tax 5.40%, Trade-In Credit: Yes
