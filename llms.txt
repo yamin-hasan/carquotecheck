@@ -1,0 +1,31 @@
+# CarQuoteCheck
+
+> CarQuoteCheck is a free, browser-based US car-buying quote auditor. It helps consumers review dealer out-the-door prices, documentation fees, government charges, trade-in tax treatment, optional add-ons, and financing costs.
+
+## Product
+
+- Website: https://carquotecheck.pages.dev/
+- No login, quote database, or backend API is required. Calculations run in the visitor's browser.
+- Saved quotes are stored in browser local storage, up to four per browser.
+- Shareable quote values are encoded in the URL fragment. Anyone with a share link can inspect those values.
+- State directory: 50 US states plus the District of Columbia.
+- Each state page contains an OTD auditor, quick facts, local context, nearby-state links, and state-specific FAQs.
+
+## Important data notes
+
+- State tax percentages are starting points, not necessarily combined county/city rates.
+- Local sales tax, vehicle weight, vehicle age, fuel economy, dealer type, registration, and transaction details may alter the actual amount.
+- Average dealer doc fees are market benchmarks, not legal caps or official state averages.
+- A missing or unverified statutory cap is labeled unverified; it must not be interpreted as proof that no cap exists.
+- Government title and registration amounts are editable planning estimates. Confirm all numbers on the written buyer's order and with the relevant state agency.
+- The tool is educational and does not provide legal, tax, lending, or financial advice.
+
+## Primary references
+
+- State vehicle tax, trade-in and doc-fee rule reference: https://otdcheck.com/data/dealer-fees-and-car-sales-tax-by-state
+- Doc-fee market benchmark: https://caredge.com/guides/car-dealer-doc-fee-by-state
+- FTC automobile pricing transparency FAQs: https://www.ftc.gov/business-guidance/resources/automobile-industry-pricing-transparency-faqs
+
+## Contact
+
+hello@carquotecheck.com (configure a monitored mailbox before launch).
